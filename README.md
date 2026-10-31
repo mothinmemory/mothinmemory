@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mothinmemory/mothinmemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ ⋆｡˚ 🪂 🎈 🪁 ⋆｡˚
 
-Here are some ideas to get you started:
+## mothinmemory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*a rather sentimental organism with a keyboard*
+
+──────────
+
+i make things for the web. sometimes they work,  
+sometimes they don't.
+
+either way, they end up here.
+
+──────────
+
+<sub>still figuring things out. probably always will be.</sub>
+
+</div>
